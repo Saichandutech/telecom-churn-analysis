@@ -1,0 +1,501 @@
+priority,customer_id,region,plan,contract_type,tenure_months,monthly_charges,churn_risk,risk_reasons
+1,CUST-06331,Northeast,Triple Play,Month-to-month,3,130.02,0.773,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+2,CUST-00395,West,Triple Play,Month-to-month,1,140.5,0.77,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+3,CUST-01275,Midwest,Internet + Mobile,Month-to-month,1,76.78,0.746,month-to-month contract; first year; 6 service issues in 90 days; not on auto-pay
+4,CUST-04677,North Texas,Triple Play,Month-to-month,1,130.63,0.743,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+5,CUST-03033,South Texas,Triple Play,Month-to-month,7,124.46,0.74,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+6,CUST-03852,Southeast,Triple Play,Month-to-month,1,128.33,0.738,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+7,CUST-00844,South Texas,Triple Play,Month-to-month,14,136.88,0.729,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+8,CUST-02245,Midwest,Internet + TV,Month-to-month,1,100.78,0.724,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+9,CUST-02062,Northeast,Internet + Mobile,Month-to-month,5,83.02,0.712,month-to-month contract; first year; 6 service issues in 90 days; not on auto-pay
+10,CUST-06127,Southeast,Triple Play,Month-to-month,20,144.6,0.712,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+11,CUST-02967,South Texas,Triple Play,Month-to-month,2,141.61,0.698,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+12,CUST-03744,South Texas,Internet Only,Month-to-month,1,64.17,0.692,month-to-month contract; first year; 6 service issues in 90 days; not on auto-pay
+13,CUST-04645,Northeast,Triple Play,Month-to-month,16,146.53,0.678,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+14,CUST-00522,North Texas,Triple Play,Month-to-month,1,128.96,0.672,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+15,CUST-03295,West,Triple Play,Month-to-month,12,131.42,0.667,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+16,CUST-06919,Southeast,Triple Play,Month-to-month,8,124.65,0.667,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+17,CUST-04754,Northeast,Triple Play,Month-to-month,6,132.12,0.665,month-to-month contract; first year; 5 service issues in 90 days
+18,CUST-01231,West,Internet + Mobile,Month-to-month,3,96.74,0.663,month-to-month contract; first year; 6 service issues in 90 days
+19,CUST-03644,Southeast,Internet + TV,Month-to-month,15,88.45,0.652,month-to-month contract; 6 service issues in 90 days; not on auto-pay
+20,CUST-00582,South Texas,Internet + TV,Month-to-month,1,109.1,0.652,month-to-month contract; first year; 5 service issues in 90 days
+21,CUST-01964,North Texas,Triple Play,Month-to-month,1,145.7,0.652,month-to-month contract; first year; not on auto-pay
+22,CUST-03521,Midwest,Triple Play,Month-to-month,11,122.54,0.644,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+23,CUST-01053,North Texas,Triple Play,Month-to-month,7,132.09,0.641,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+24,CUST-06584,Midwest,Internet + TV,Month-to-month,2,91.23,0.633,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+25,CUST-02723,Northeast,Internet + Mobile,Month-to-month,4,96.53,0.632,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+26,CUST-03979,Midwest,Internet + TV,Month-to-month,5,97.78,0.627,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+27,CUST-05560,Southeast,Triple Play,Month-to-month,1,125.43,0.624,month-to-month contract; first year; 4 service issues in 90 days
+28,CUST-05131,North Texas,Internet + TV,Month-to-month,1,86.43,0.62,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+29,CUST-03532,South Texas,Internet + TV,Month-to-month,1,110.23,0.619,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+30,CUST-06761,Southeast,Internet + TV,Month-to-month,9,105.57,0.611,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+31,CUST-00424,North Texas,Internet + TV,Month-to-month,14,95.03,0.61,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+32,CUST-00693,Midwest,Triple Play,Month-to-month,3,134.07,0.609,month-to-month contract; first year; not on auto-pay
+33,CUST-04857,West,Internet Only,Month-to-month,1,60.4,0.608,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+34,CUST-05947,North Texas,Internet + TV,Month-to-month,7,87.76,0.606,month-to-month contract; first year; 6 service issues in 90 days
+35,CUST-04889,North Texas,Internet Only,Month-to-month,1,56.76,0.604,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+36,CUST-02664,Midwest,Internet + TV,Month-to-month,14,82.08,0.603,month-to-month contract; 7 service issues in 90 days
+37,CUST-05938,Midwest,Internet + Mobile,Month-to-month,4,88.99,0.603,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+38,CUST-04152,South Texas,Internet + TV,Month-to-month,1,95.94,0.602,month-to-month contract; first year; 5 service issues in 90 days
+39,CUST-04308,Midwest,Triple Play,Month-to-month,1,128.41,0.602,month-to-month contract; first year; not on auto-pay
+40,CUST-04422,West,Internet + TV,Month-to-month,24,115.3,0.601,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+41,CUST-05312,South Texas,Triple Play,Month-to-month,22,130.23,0.601,month-to-month contract; 6 service issues in 90 days
+42,CUST-04057,Southeast,Internet + TV,Month-to-month,1,94.9,0.598,month-to-month contract; first year; 5 service issues in 90 days
+43,CUST-01765,South Texas,Triple Play,Month-to-month,4,135.49,0.598,month-to-month contract; first year; not on auto-pay
+44,CUST-07203,Northeast,Triple Play,Month-to-month,1,116.43,0.598,month-to-month contract; first year; 4 service issues in 90 days
+45,CUST-06661,Midwest,Internet + TV,Month-to-month,1,100.31,0.597,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+46,CUST-01458,Midwest,Internet + TV,Month-to-month,11,101.6,0.596,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+47,CUST-05397,Southeast,Internet Only,Month-to-month,4,62.03,0.595,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+48,CUST-06270,Northeast,Internet Only,Month-to-month,1,51.57,0.595,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+49,CUST-02807,Northeast,Internet + Mobile,Month-to-month,9,74.71,0.591,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+50,CUST-03667,South Texas,Triple Play,Month-to-month,12,128.8,0.591,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+51,CUST-05132,West,Internet + TV,Month-to-month,3,99.28,0.588,month-to-month contract; first year; 5 service issues in 90 days
+52,CUST-07439,South Texas,Internet + TV,Month-to-month,7,92.01,0.588,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+53,CUST-04746,Northeast,Internet + TV,Month-to-month,22,99.11,0.587,month-to-month contract; 7 service issues in 90 days
+54,CUST-06989,West,Triple Play,Month-to-month,1,139.15,0.587,month-to-month contract; first year; 3 service issues in 90 days
+55,CUST-04156,North Texas,Triple Play,Month-to-month,8,115.89,0.585,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+56,CUST-04291,Southeast,Internet + TV,Month-to-month,1,95.44,0.583,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+57,CUST-00815,Southeast,Triple Play,Month-to-month,4,130.02,0.582,month-to-month contract; first year; not on auto-pay
+58,CUST-00709,South Texas,Internet Only,Month-to-month,7,65.72,0.581,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+59,CUST-05385,South Texas,Internet + TV,Month-to-month,9,92.35,0.579,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+60,CUST-07032,Northeast,Internet + Mobile,Month-to-month,1,86.97,0.575,month-to-month contract; first year; 5 service issues in 90 days
+61,CUST-00619,North Texas,Internet + Mobile,Month-to-month,4,79.02,0.574,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+62,CUST-06433,West,Internet + TV,Month-to-month,19,89.87,0.574,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+63,CUST-00795,West,Internet + TV,Month-to-month,2,97.3,0.573,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+64,CUST-02014,South Texas,Triple Play,Month-to-month,1,134.3,0.572,month-to-month contract; first year; 3 service issues in 90 days
+65,CUST-06669,South Texas,Triple Play,Month-to-month,1,115.89,0.572,month-to-month contract; first year; not on auto-pay
+66,CUST-04990,West,Triple Play,Month-to-month,16,125.65,0.572,month-to-month contract; 5 service issues in 90 days
+67,CUST-00192,West,Internet Only,Month-to-month,1,65.38,0.572,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+68,CUST-03372,South Texas,Internet + Mobile,Month-to-month,1,84.9,0.569,month-to-month contract; first year; 5 service issues in 90 days
+69,CUST-05926,South Texas,Internet + TV,Month-to-month,9,93.3,0.568,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+70,CUST-00140,Southeast,Internet + Mobile,Month-to-month,9,90.87,0.567,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+71,CUST-04455,Southeast,Internet + Mobile,Month-to-month,13,93.38,0.562,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+72,CUST-00332,West,Internet + TV,Month-to-month,1,106.26,0.56,month-to-month contract; first year; 4 service issues in 90 days
+73,CUST-01997,North Texas,Triple Play,Month-to-month,3,117.76,0.56,month-to-month contract; first year; not on auto-pay
+74,CUST-05491,North Texas,Triple Play,Month-to-month,1,140.65,0.56,month-to-month contract; first year; not on auto-pay
+75,CUST-03196,Southeast,Internet + TV,Month-to-month,6,101.55,0.559,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+76,CUST-01077,South Texas,Triple Play,Month-to-month,4,140.11,0.558,month-to-month contract; first year; 3 service issues in 90 days
+77,CUST-02205,Southeast,Internet + Mobile,Month-to-month,8,93.78,0.557,month-to-month contract; first year; 5 service issues in 90 days
+78,CUST-01554,West,Triple Play,Month-to-month,7,148.07,0.556,month-to-month contract; first year; 3 service issues in 90 days
+79,CUST-06791,Southeast,Internet Only,Month-to-month,1,64.34,0.555,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+80,CUST-06724,South Texas,Internet + TV,Month-to-month,11,91.85,0.554,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+81,CUST-02636,Midwest,Internet Only,Month-to-month,12,64.87,0.55,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+82,CUST-05512,Southeast,Triple Play,Month-to-month,1,135.3,0.55,month-to-month contract; first year; not on auto-pay
+83,CUST-06604,Northeast,Triple Play,Month-to-month,25,127.15,0.549,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+84,CUST-03191,Midwest,Triple Play,Month-to-month,24,124.3,0.549,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+85,CUST-00891,Northeast,Internet + TV,Month-to-month,9,98.24,0.548,month-to-month contract; first year; 5 service issues in 90 days
+86,CUST-04911,West,Internet + TV,Month-to-month,1,84.06,0.548,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+87,CUST-05483,West,Triple Play,Month-to-month,1,125.91,0.547,month-to-month contract; first year; 3 service issues in 90 days
+88,CUST-07168,South Texas,Internet + Mobile,Month-to-month,4,81.67,0.547,month-to-month contract; first year; 5 service issues in 90 days
+89,CUST-05812,Southeast,Internet + Mobile,Month-to-month,16,90.92,0.547,month-to-month contract; 6 service issues in 90 days
+90,CUST-03657,South Texas,Internet Only,Month-to-month,1,63.63,0.546,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+91,CUST-05958,South Texas,Triple Play,Month-to-month,17,129.71,0.545,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+92,CUST-05774,Midwest,Triple Play,Month-to-month,1,135.71,0.545,month-to-month contract; first year; not on auto-pay
+93,CUST-00972,Midwest,Internet + TV,Month-to-month,1,98.69,0.544,month-to-month contract; first year; 4 service issues in 90 days
+94,CUST-06917,North Texas,Triple Play,Month-to-month,2,127.58,0.543,month-to-month contract; first year; 3 service issues in 90 days
+95,CUST-06001,Southeast,Internet + Mobile,Month-to-month,1,85.81,0.54,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+96,CUST-04256,North Texas,Internet + Mobile,Month-to-month,13,92.92,0.54,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+97,CUST-06858,North Texas,Triple Play,Month-to-month,1,131.86,0.54,month-to-month contract; first year; not on auto-pay
+98,CUST-00626,North Texas,Internet Only,Month-to-month,13,42.11,0.539,month-to-month contract; 6 service issues in 90 days; not on auto-pay
+99,CUST-04411,North Texas,Internet Only,Month-to-month,1,61.62,0.539,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+100,CUST-01424,West,Internet Only,Month-to-month,6,44.07,0.538,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+101,CUST-00595,Southeast,Internet Only,Month-to-month,1,58.88,0.538,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+102,CUST-01016,South Texas,Internet Only,Month-to-month,1,58.83,0.538,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+103,CUST-05198,South Texas,Internet + TV,Month-to-month,2,107.41,0.537,month-to-month contract; first year; not on auto-pay
+104,CUST-03245,North Texas,Triple Play,Month-to-month,1,130.68,0.536,month-to-month contract; first year; not on auto-pay
+105,CUST-05122,North Texas,Triple Play,Month-to-month,17,126.75,0.536,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+106,CUST-01417,Northeast,Triple Play,Month-to-month,14,131.76,0.535,month-to-month contract; 4 service issues in 90 days
+107,CUST-06711,Northeast,Internet + TV,Month-to-month,5,90.71,0.534,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+108,CUST-01041,North Texas,Internet + TV,Month-to-month,1,103.18,0.533,month-to-month contract; first year; not on auto-pay
+109,CUST-03539,Midwest,Triple Play,Month-to-month,10,128.12,0.533,month-to-month contract; first year; not on auto-pay
+110,CUST-03698,Midwest,Internet + TV,Month-to-month,2,102.45,0.533,month-to-month contract; first year; 4 service issues in 90 days
+111,CUST-02229,Midwest,Internet + Mobile,Month-to-month,5,76.98,0.532,month-to-month contract; first year; 5 service issues in 90 days
+112,CUST-00733,Southeast,Triple Play,Month-to-month,1,123.02,0.531,month-to-month contract; first year; 3 service issues in 90 days
+113,CUST-06098,South Texas,Triple Play,Month-to-month,1,131.36,0.531,month-to-month contract; first year; not on auto-pay
+114,CUST-00454,Southeast,Triple Play,Month-to-month,17,122.98,0.531,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+115,CUST-04395,North Texas,Internet + Mobile,Month-to-month,9,102.75,0.53,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+116,CUST-06277,North Texas,Internet + Mobile,Month-to-month,15,82.53,0.53,month-to-month contract; 6 service issues in 90 days
+117,CUST-02109,West,Internet + Mobile,Month-to-month,24,95.55,0.528,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+118,CUST-02199,Southeast,Triple Play,Month-to-month,10,128.98,0.528,month-to-month contract; first year; not on auto-pay
+119,CUST-01584,West,Triple Play,Month-to-month,12,134.64,0.528,month-to-month contract; first year; not on auto-pay
+120,CUST-01807,Southeast,Internet + TV,Month-to-month,1,100.77,0.526,month-to-month contract; first year; not on auto-pay
+121,CUST-05431,North Texas,Internet Only,Month-to-month,1,52.24,0.525,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+122,CUST-06925,Northeast,Internet + TV,Month-to-month,5,79.1,0.524,month-to-month contract; first year; 5 service issues in 90 days
+123,CUST-02157,Northeast,Internet + Mobile,Month-to-month,1,75.96,0.523,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+124,CUST-02993,Southeast,Internet + TV,Month-to-month,8,94.52,0.521,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+125,CUST-04654,North Texas,Internet + Mobile,Month-to-month,14,89.54,0.521,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+126,CUST-02367,West,Internet + TV,Month-to-month,13,97.7,0.52,month-to-month contract; 5 service issues in 90 days
+127,CUST-03555,South Texas,Internet Only,Month-to-month,1,41.86,0.518,month-to-month contract; first year; 6 service issues in 90 days
+128,CUST-01397,Northeast,Internet + TV,Month-to-month,6,116.43,0.517,month-to-month contract; first year; not on auto-pay
+129,CUST-03228,Northeast,Internet + Mobile,Month-to-month,12,91.65,0.517,month-to-month contract; first year; 5 service issues in 90 days
+130,CUST-02123,North Texas,Triple Play,Month-to-month,8,121.33,0.515,month-to-month contract; first year; not on auto-pay
+131,CUST-00722,Southeast,Triple Play,Month-to-month,12,143.83,0.515,month-to-month contract; first year; 3 service issues in 90 days
+132,CUST-00035,West,Internet + TV,Month-to-month,23,97.06,0.513,month-to-month contract; 6 service issues in 90 days
+133,CUST-01888,West,Internet Only,Month-to-month,10,63.17,0.513,month-to-month contract; first year; 6 service issues in 90 days
+134,CUST-06655,Midwest,Internet + TV,Month-to-month,1,96.51,0.513,month-to-month contract; first year; not on auto-pay
+135,CUST-06698,North Texas,Internet + Mobile,Month-to-month,1,90.43,0.512,month-to-month contract; first year; 4 service issues in 90 days
+136,CUST-06755,Southeast,Internet Only,Month-to-month,1,71.68,0.51,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+137,CUST-03834,Northeast,Internet + TV,Month-to-month,1,98.1,0.51,month-to-month contract; first year; not on auto-pay
+138,CUST-05836,South Texas,Triple Play,Month-to-month,11,125.72,0.51,month-to-month contract; first year; not on auto-pay
+139,CUST-06868,Northeast,Triple Play,Month-to-month,18,130.23,0.51,month-to-month contract; 4 service issues in 90 days
+140,CUST-06067,Southeast,Internet Only,Month-to-month,1,67.46,0.509,month-to-month contract; first year; 5 service issues in 90 days
+141,CUST-03199,North Texas,Internet Only,Month-to-month,3,54.57,0.508,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+142,CUST-00109,North Texas,Internet + Mobile,Month-to-month,17,93.79,0.508,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+143,CUST-05656,South Texas,Internet + TV,Month-to-month,13,84.81,0.508,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+144,CUST-04472,South Texas,Triple Play,Month-to-month,1,137.05,0.507,month-to-month contract; first year
+145,CUST-00656,Northeast,Triple Play,Month-to-month,15,127.63,0.506,month-to-month contract; 4 service issues in 90 days
+146,CUST-03724,North Texas,Triple Play,Month-to-month,12,129.6,0.506,month-to-month contract; first year; not on auto-pay
+147,CUST-06040,North Texas,Internet Only,Month-to-month,1,64.34,0.506,month-to-month contract; first year; 5 service issues in 90 days
+148,CUST-00113,South Texas,Triple Play,Month-to-month,9,118.42,0.504,month-to-month contract; first year; not on auto-pay
+149,CUST-02884,West,Internet + Mobile,Month-to-month,13,94.39,0.503,month-to-month contract; 5 service issues in 90 days
+150,CUST-03489,Midwest,Triple Play,Month-to-month,6,123.4,0.503,month-to-month contract; first year; 3 service issues in 90 days
+151,CUST-03307,North Texas,Internet + TV,Month-to-month,12,100.04,0.503,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+152,CUST-07088,Northeast,Internet + TV,Month-to-month,1,95.65,0.503,month-to-month contract; first year; not on auto-pay
+153,CUST-01227,North Texas,Internet + Mobile,Month-to-month,2,71.65,0.502,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+154,CUST-06402,South Texas,Internet + TV,Month-to-month,20,75.99,0.502,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+155,CUST-00063,West,Triple Play,One year,4,115.51,0.502,first year; 5 service issues in 90 days; not on auto-pay
+156,CUST-02546,West,Triple Play,Month-to-month,16,134.69,0.501,month-to-month contract; not on auto-pay
+157,CUST-02413,Southeast,Triple Play,Month-to-month,31,146.34,0.501,month-to-month contract; 5 service issues in 90 days
+158,CUST-05060,North Texas,Internet Only,Month-to-month,1,44.59,0.501,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+159,CUST-02721,North Texas,Triple Play,Month-to-month,1,132.68,0.501,month-to-month contract; first year
+160,CUST-02168,Northeast,Internet Only,Month-to-month,13,52.79,0.498,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+161,CUST-05367,West,Internet + Mobile,Month-to-month,9,83.96,0.498,month-to-month contract; first year; 5 service issues in 90 days
+162,CUST-03065,Northeast,Internet + Mobile,Month-to-month,1,81.15,0.498,month-to-month contract; first year; 4 service issues in 90 days
+163,CUST-05030,North Texas,Internet + Mobile,Month-to-month,1,93.94,0.498,month-to-month contract; first year; not on auto-pay
+164,CUST-00841,North Texas,Triple Play,Month-to-month,1,131.67,0.498,month-to-month contract; first year
+165,CUST-04574,North Texas,Internet + Mobile,Month-to-month,15,82.36,0.497,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+166,CUST-01189,Northeast,Internet + TV,Month-to-month,1,95.83,0.496,month-to-month contract; first year; not on auto-pay
+167,CUST-04854,North Texas,Internet + TV,Month-to-month,3,100.98,0.495,month-to-month contract; first year; not on auto-pay
+168,CUST-01680,North Texas,Triple Play,Month-to-month,14,143.08,0.495,month-to-month contract; 3 service issues in 90 days
+169,CUST-06345,West,Internet + TV,Month-to-month,1,92.71,0.494,month-to-month contract; first year; not on auto-pay
+170,CUST-00552,West,Internet + Mobile,Month-to-month,12,77.45,0.494,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+171,CUST-04731,West,Internet Only,Month-to-month,13,73.25,0.494,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+172,CUST-02342,Southeast,Internet + TV,Month-to-month,7,87.6,0.494,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+173,CUST-02424,Northeast,Internet + TV,Month-to-month,7,87.37,0.493,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+174,CUST-01876,South Texas,Triple Play,One year,22,138.57,0.493,6 service issues in 90 days; not on auto-pay
+175,CUST-06282,Midwest,Triple Play,Month-to-month,8,136.18,0.493,month-to-month contract; first year; not on auto-pay
+176,CUST-02823,South Texas,Triple Play,Month-to-month,13,127.63,0.491,month-to-month contract; not on auto-pay
+177,CUST-00870,West,Internet + TV,Month-to-month,12,98.08,0.49,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+178,CUST-04871,Southeast,Triple Play,Month-to-month,23,120.33,0.49,month-to-month contract; 5 service issues in 90 days
+179,CUST-06600,Midwest,Internet + TV,Month-to-month,1,109.48,0.489,month-to-month contract; first year; 3 service issues in 90 days
+180,CUST-02968,West,Triple Play,Month-to-month,6,131.21,0.488,month-to-month contract; first year; not on auto-pay
+181,CUST-06401,South Texas,Triple Play,Month-to-month,7,123.34,0.488,month-to-month contract; first year; 3 service issues in 90 days
+182,CUST-02608,West,Internet Only,Month-to-month,1,58.44,0.488,month-to-month contract; first year; 5 service issues in 90 days
+183,CUST-02850,Northeast,Triple Play,Month-to-month,26,138.16,0.487,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+184,CUST-05838,Southeast,Internet Only,Month-to-month,4,66.32,0.486,month-to-month contract; first year; 5 service issues in 90 days
+185,CUST-04463,Midwest,Internet Only,Month-to-month,12,41.37,0.485,month-to-month contract; first year; 5 service issues in 90 days; not on auto-pay
+186,CUST-04606,Southeast,Triple Play,Month-to-month,15,142.39,0.485,month-to-month contract; 3 service issues in 90 days
+187,CUST-05010,Northeast,Internet + Mobile,Month-to-month,22,100.18,0.485,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+188,CUST-01642,Northeast,Triple Play,Month-to-month,1,132.18,0.485,month-to-month contract; first year
+189,CUST-05622,South Texas,Internet + Mobile,Month-to-month,22,73.75,0.485,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+190,CUST-00112,West,Internet + TV,Month-to-month,21,92.74,0.485,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+191,CUST-00048,West,Internet + Mobile,Month-to-month,8,72.51,0.485,month-to-month contract; first year; 5 service issues in 90 days
+192,CUST-02402,West,Internet Only,One year,5,59.7,0.484,first year; 7 service issues in 90 days; not on auto-pay
+193,CUST-00126,Midwest,Triple Play,Month-to-month,2,132.23,0.484,month-to-month contract; first year
+194,CUST-00661,Southeast,Internet + TV,Month-to-month,12,96.01,0.484,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+195,CUST-01594,Southeast,Triple Play,Month-to-month,7,132.74,0.484,month-to-month contract; first year; not on auto-pay
+196,CUST-02803,North Texas,Internet + Mobile,Month-to-month,7,82.2,0.484,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+197,CUST-04000,Northeast,Internet + TV,Month-to-month,1,89.53,0.484,month-to-month contract; first year; not on auto-pay
+198,CUST-05731,Southeast,Internet + TV,Month-to-month,3,88.85,0.483,month-to-month contract; first year; 4 service issues in 90 days
+199,CUST-02489,North Texas,Internet + TV,Month-to-month,1,91.38,0.483,month-to-month contract; first year; not on auto-pay
+200,CUST-06230,Midwest,Internet + Mobile,Month-to-month,18,81.1,0.482,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+201,CUST-06172,South Texas,Internet + Mobile,Month-to-month,1,86.6,0.482,month-to-month contract; first year; not on auto-pay
+202,CUST-05621,Southeast,Triple Play,Month-to-month,12,145.6,0.481,month-to-month contract; first year; not on auto-pay
+203,CUST-01215,Northeast,Internet + TV,Month-to-month,22,98.93,0.481,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+204,CUST-04706,Midwest,Internet + Mobile,Month-to-month,17,84.95,0.481,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+205,CUST-00718,Northeast,Internet + TV,Month-to-month,22,100.75,0.48,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+206,CUST-00276,Southeast,Internet Only,Month-to-month,1,64.17,0.48,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+207,CUST-01251,South Texas,Triple Play,Month-to-month,1,128.36,0.48,month-to-month contract; first year
+208,CUST-05513,Midwest,Internet + Mobile,Month-to-month,10,89.13,0.48,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+209,CUST-07387,West,Triple Play,Month-to-month,22,149.04,0.48,month-to-month contract; not on auto-pay
+210,CUST-02779,Southeast,Internet + TV,Month-to-month,7,91.87,0.479,month-to-month contract; first year; 4 service issues in 90 days
+211,CUST-04161,North Texas,Internet + TV,Month-to-month,11,91.57,0.479,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+212,CUST-02050,Northeast,Triple Play,Month-to-month,1,114.16,0.479,month-to-month contract; first year; not on auto-pay
+213,CUST-00193,Northeast,Internet + Mobile,Month-to-month,3,93.36,0.479,month-to-month contract; first year; not on auto-pay
+214,CUST-05700,West,Internet Only,Month-to-month,1,41.98,0.479,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+215,CUST-06942,North Texas,Internet Only,Month-to-month,33,49.67,0.479,month-to-month contract; 7 service issues in 90 days; not on auto-pay
+216,CUST-00232,Southeast,Internet + Mobile,Month-to-month,18,87.11,0.479,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+217,CUST-02078,North Texas,Internet + Mobile,Month-to-month,1,85.26,0.478,month-to-month contract; first year; not on auto-pay
+218,CUST-04617,Midwest,Internet + Mobile,Month-to-month,4,95.86,0.478,month-to-month contract; first year; not on auto-pay
+219,CUST-00149,South Texas,Triple Play,Month-to-month,3,133.19,0.478,month-to-month contract; first year
+220,CUST-03533,Northeast,Internet + TV,Month-to-month,18,95.34,0.477,month-to-month contract; 5 service issues in 90 days
+221,CUST-01729,South Texas,Internet + TV,Month-to-month,7,88.94,0.477,month-to-month contract; first year; 4 service issues in 90 days
+222,CUST-07322,Northeast,Internet + Mobile,Month-to-month,1,100.99,0.477,month-to-month contract; first year; 3 service issues in 90 days
+223,CUST-01685,South Texas,Internet + TV,Month-to-month,15,104.07,0.476,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+224,CUST-02220,West,Internet + Mobile,Month-to-month,12,88.8,0.476,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+225,CUST-06390,West,Internet + TV,Month-to-month,7,77.35,0.476,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+226,CUST-01976,Northeast,Triple Play,Month-to-month,4,108.92,0.476,month-to-month contract; first year; 3 service issues in 90 days
+227,CUST-01547,Midwest,Triple Play,Month-to-month,20,115.39,0.475,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+228,CUST-00705,North Texas,Triple Play,Month-to-month,3,132.32,0.475,month-to-month contract; first year
+229,CUST-06194,North Texas,Internet + Mobile,Month-to-month,1,78.09,0.474,month-to-month contract; first year; 4 service issues in 90 days
+230,CUST-06131,West,Triple Play,Month-to-month,27,132.3,0.474,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+231,CUST-03927,Northeast,Triple Play,Month-to-month,1,127.79,0.472,month-to-month contract; first year
+232,CUST-07361,Northeast,Internet + Mobile,Month-to-month,1,85.71,0.472,month-to-month contract; first year; not on auto-pay
+233,CUST-03067,West,Triple Play,Month-to-month,6,139.63,0.472,month-to-month contract; first year
+234,CUST-01647,Midwest,Internet + Mobile,Month-to-month,19,87.18,0.471,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+235,CUST-00455,Northeast,Internet + Mobile,Month-to-month,13,92.25,0.471,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+236,CUST-01209,Northeast,Triple Play,Month-to-month,8,120.78,0.471,month-to-month contract; first year; 3 service issues in 90 days
+237,CUST-00248,North Texas,Internet + Mobile,Month-to-month,3,90.69,0.471,month-to-month contract; first year; not on auto-pay
+238,CUST-06713,Southeast,Triple Play,Month-to-month,25,125.35,0.47,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+239,CUST-02296,Midwest,Internet + Mobile,Month-to-month,1,84.96,0.47,month-to-month contract; first year; not on auto-pay
+240,CUST-06629,Southeast,Internet + Mobile,Month-to-month,1,84.82,0.47,month-to-month contract; first year; not on auto-pay
+241,CUST-04730,North Texas,Internet + TV,Month-to-month,1,109.06,0.47,month-to-month contract; first year; not on auto-pay
+242,CUST-02250,Midwest,Internet Only,Month-to-month,1,58.22,0.469,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+243,CUST-01138,Northeast,Internet Only,Month-to-month,1,60.62,0.469,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+244,CUST-06359,Midwest,Internet + Mobile,Month-to-month,18,97.43,0.469,month-to-month contract; 5 service issues in 90 days
+245,CUST-04301,Northeast,Triple Play,Month-to-month,15,123.35,0.468,month-to-month contract; not on auto-pay
+246,CUST-01298,Midwest,Internet + TV,Month-to-month,7,92.94,0.468,month-to-month contract; first year; 4 service issues in 90 days
+247,CUST-01318,Northeast,Internet Only,Month-to-month,4,59.92,0.467,month-to-month contract; first year; 5 service issues in 90 days
+248,CUST-01980,Northeast,Internet + Mobile,Month-to-month,1,75.88,0.467,month-to-month contract; first year; 4 service issues in 90 days
+249,CUST-02886,Northeast,Internet + TV,Month-to-month,1,97.58,0.467,month-to-month contract; first year; 3 service issues in 90 days
+250,CUST-01532,North Texas,Internet + TV,Month-to-month,12,106.15,0.466,month-to-month contract; first year; 4 service issues in 90 days
+251,CUST-02831,Midwest,Internet + TV,Month-to-month,6,95.36,0.466,month-to-month contract; first year; not on auto-pay
+252,CUST-06863,Northeast,Triple Play,Month-to-month,12,130.28,0.466,month-to-month contract; first year; 3 service issues in 90 days
+253,CUST-05094,Southeast,Internet Only,Month-to-month,4,45.67,0.465,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+254,CUST-01262,Northeast,Triple Play,Month-to-month,1,124.88,0.463,month-to-month contract; first year
+255,CUST-03831,Northeast,Internet + TV,Month-to-month,3,104.28,0.463,month-to-month contract; first year; 3 service issues in 90 days
+256,CUST-00859,Midwest,Triple Play,Month-to-month,13,131.69,0.462,month-to-month contract; 3 service issues in 90 days
+257,CUST-02568,South Texas,Internet + TV,Month-to-month,5,90.74,0.461,month-to-month contract; first year; not on auto-pay
+258,CUST-03128,Northeast,Internet Only,Month-to-month,1,57.76,0.461,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+259,CUST-06030,West,Internet Only,Month-to-month,1,55.28,0.46,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+260,CUST-00401,North Texas,Internet + Mobile,Month-to-month,1,81.22,0.459,month-to-month contract; first year; not on auto-pay
+261,CUST-04851,South Texas,Internet + Mobile,Month-to-month,5,90.23,0.459,month-to-month contract; first year; not on auto-pay
+262,CUST-00330,Midwest,Internet + Mobile,Month-to-month,20,88.15,0.459,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+263,CUST-03288,Northeast,Internet + TV,Month-to-month,17,101.9,0.459,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+264,CUST-00830,Southeast,Internet + TV,Month-to-month,1,97.29,0.459,month-to-month contract; first year; 3 service issues in 90 days
+265,CUST-05981,North Texas,Internet + TV,Month-to-month,12,85.4,0.458,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+266,CUST-00917,North Texas,Internet + TV,Month-to-month,13,106.16,0.458,month-to-month contract; 4 service issues in 90 days
+267,CUST-02852,Southeast,Triple Play,Month-to-month,7,123.89,0.457,month-to-month contract; first year; not on auto-pay
+268,CUST-01743,Northeast,Internet + Mobile,Month-to-month,4,86.71,0.457,month-to-month contract; first year; not on auto-pay
+269,CUST-05127,North Texas,Triple Play,Month-to-month,21,130.54,0.457,month-to-month contract; 4 service issues in 90 days
+270,CUST-02626,West,Triple Play,Month-to-month,22,136.87,0.457,month-to-month contract; not on auto-pay
+271,CUST-05169,Northeast,Triple Play,Month-to-month,18,125.4,0.456,month-to-month contract; not on auto-pay
+272,CUST-02541,South Texas,Internet + Mobile,Month-to-month,9,89.85,0.456,month-to-month contract; first year; 4 service issues in 90 days
+273,CUST-00375,North Texas,Triple Play,Month-to-month,3,128.19,0.456,month-to-month contract; first year
+274,CUST-06446,North Texas,Triple Play,Month-to-month,18,127.57,0.456,month-to-month contract; not on auto-pay
+275,CUST-07009,Midwest,Internet + Mobile,Month-to-month,7,96.68,0.455,month-to-month contract; first year; not on auto-pay
+276,CUST-06706,South Texas,Internet + Mobile,Month-to-month,19,81.97,0.455,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+277,CUST-05566,North Texas,Internet Only,Month-to-month,10,56.72,0.455,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+278,CUST-02421,North Texas,Internet Only,Month-to-month,1,57.98,0.454,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+279,CUST-01762,Southeast,Triple Play,Month-to-month,1,122.1,0.454,month-to-month contract; first year
+280,CUST-07352,North Texas,Internet Only,Month-to-month,1,53.18,0.454,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+281,CUST-02458,South Texas,Triple Play,Month-to-month,7,136.29,0.454,month-to-month contract; first year
+282,CUST-05108,Southeast,Internet + TV,Month-to-month,15,96.99,0.454,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+283,CUST-03564,West,Triple Play,Month-to-month,20,148.16,0.453,month-to-month contract; 3 service issues in 90 days
+284,CUST-05617,Northeast,Internet + TV,Month-to-month,5,92.59,0.452,month-to-month contract; first year; not on auto-pay
+285,CUST-07298,South Texas,Internet + TV,Month-to-month,1,78.94,0.452,month-to-month contract; first year; not on auto-pay
+286,CUST-05305,Midwest,Triple Play,Month-to-month,9,127.58,0.452,month-to-month contract; first year; not on auto-pay
+287,CUST-00849,Southeast,Triple Play,Month-to-month,24,137.21,0.452,month-to-month contract; 4 service issues in 90 days
+288,CUST-07376,South Texas,Triple Play,Month-to-month,1,119.06,0.452,month-to-month contract; first year
+289,CUST-05076,West,Internet + TV,Month-to-month,1,94.72,0.451,month-to-month contract; first year; 3 service issues in 90 days
+290,CUST-04922,Northeast,Triple Play,Month-to-month,25,121.54,0.451,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+291,CUST-05006,North Texas,Internet + TV,Month-to-month,9,100.7,0.45,month-to-month contract; first year; not on auto-pay
+292,CUST-03283,South Texas,Internet + Mobile,Month-to-month,12,82.76,0.45,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+293,CUST-06274,Northeast,Triple Play,Month-to-month,3,126.08,0.449,month-to-month contract; first year
+294,CUST-00409,Midwest,Internet + TV,Month-to-month,1,94.06,0.449,month-to-month contract; first year; 3 service issues in 90 days
+295,CUST-05034,Southeast,Internet + TV,Month-to-month,8,95.29,0.449,month-to-month contract; first year; not on auto-pay
+296,CUST-02099,Southeast,Internet Only,Month-to-month,1,69.94,0.449,month-to-month contract; first year; 4 service issues in 90 days
+297,CUST-02073,Southeast,Internet + Mobile,Month-to-month,4,86.43,0.449,month-to-month contract; first year; not on auto-pay
+298,CUST-02289,North Texas,Triple Play,Month-to-month,16,121.89,0.448,month-to-month contract; not on auto-pay
+299,CUST-04408,West,Internet + TV,Month-to-month,5,88.77,0.448,month-to-month contract; first year; not on auto-pay
+300,CUST-04772,Northeast,Triple Play,Month-to-month,24,143.58,0.447,month-to-month contract; not on auto-pay
+301,CUST-00423,West,Internet + TV,Month-to-month,8,98.93,0.446,month-to-month contract; first year; not on auto-pay
+302,CUST-05472,Northeast,Internet + Mobile,Month-to-month,35,84.52,0.446,month-to-month contract; 7 service issues in 90 days
+303,CUST-00900,Northeast,Internet + Mobile,Month-to-month,1,87.98,0.445,month-to-month contract; first year; 3 service issues in 90 days
+304,CUST-00093,Northeast,Internet + Mobile,Month-to-month,6,80.33,0.445,month-to-month contract; first year; 4 service issues in 90 days
+305,CUST-06140,Midwest,Internet + TV,Month-to-month,1,92.59,0.445,month-to-month contract; first year; 3 service issues in 90 days
+306,CUST-03339,North Texas,Internet + TV,Month-to-month,10,101.42,0.444,month-to-month contract; first year; not on auto-pay
+307,CUST-06625,Northeast,Internet Only,Month-to-month,12,61.04,0.444,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+308,CUST-01877,West,Internet + TV,Month-to-month,1,92.23,0.444,month-to-month contract; first year; 3 service issues in 90 days
+309,CUST-02382,South Texas,Internet + Mobile,Month-to-month,8,95.74,0.444,month-to-month contract; first year; not on auto-pay
+310,CUST-05720,West,Internet + TV,Month-to-month,18,99.59,0.444,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+311,CUST-02754,Northeast,Internet + TV,Month-to-month,16,91.87,0.444,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+312,CUST-05963,West,Internet + Mobile,Month-to-month,1,91.89,0.443,month-to-month contract; first year; 3 service issues in 90 days
+313,CUST-05990,Southeast,Triple Play,Month-to-month,1,126.72,0.443,month-to-month contract; first year; not on auto-pay
+314,CUST-03648,Southeast,Internet + TV,Month-to-month,1,102.1,0.442,month-to-month contract; first year; not on auto-pay
+315,CUST-03987,Southeast,Triple Play,Month-to-month,33,138.55,0.442,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+316,CUST-05070,Northeast,Triple Play,Month-to-month,8,121.76,0.442,month-to-month contract; first year; not on auto-pay
+317,CUST-06722,Midwest,Triple Play,Month-to-month,1,139.46,0.441,month-to-month contract; first year
+318,CUST-04599,Midwest,Triple Play,Month-to-month,9,121.65,0.441,month-to-month contract; first year; not on auto-pay
+319,CUST-00996,West,Internet + Mobile,Month-to-month,1,89.11,0.441,month-to-month contract; first year; 3 service issues in 90 days
+320,CUST-01668,West,Internet + TV,Month-to-month,1,91.45,0.441,month-to-month contract; first year; 3 service issues in 90 days
+321,CUST-01145,Midwest,Internet + TV,Month-to-month,19,99.11,0.441,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+322,CUST-02304,South Texas,Internet Only,Month-to-month,1,65.04,0.441,month-to-month contract; first year; 4 service issues in 90 days
+323,CUST-01912,Midwest,Internet Only,Month-to-month,1,46.58,0.441,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+324,CUST-01686,Southeast,Internet + TV,Month-to-month,15,88.02,0.441,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+325,CUST-01823,Southeast,Internet + TV,Month-to-month,13,102.54,0.44,month-to-month contract; 4 service issues in 90 days
+326,CUST-01738,North Texas,Internet Only,Month-to-month,1,53.32,0.44,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+327,CUST-02838,South Texas,Internet + TV,Month-to-month,25,83.32,0.44,month-to-month contract; 6 service issues in 90 days
+328,CUST-02047,North Texas,Triple Play,Month-to-month,6,139.18,0.439,month-to-month contract; first year; not on auto-pay
+329,CUST-02957,Midwest,Internet + TV,Month-to-month,8,94.14,0.439,month-to-month contract; first year; not on auto-pay
+330,CUST-04446,West,Triple Play,Month-to-month,28,121.06,0.438,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+331,CUST-00263,North Texas,Triple Play,Month-to-month,14,112.8,0.438,month-to-month contract; not on auto-pay
+332,CUST-05482,West,Internet Only,Month-to-month,8,41.18,0.438,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+333,CUST-04110,Northeast,Triple Play,Month-to-month,18,123.95,0.438,month-to-month contract; not on auto-pay
+334,CUST-00794,Northeast,Internet + Mobile,Month-to-month,1,76.21,0.437,month-to-month contract; first year; not on auto-pay
+335,CUST-03349,Northeast,Triple Play,One year,1,131.96,0.437,first year; 3 service issues in 90 days; not on auto-pay
+336,CUST-00791,Northeast,Internet + Mobile,Month-to-month,1,89.95,0.437,month-to-month contract; first year; 3 service issues in 90 days
+337,CUST-02840,Midwest,Triple Play,Month-to-month,17,121.07,0.437,month-to-month contract; not on auto-pay
+338,CUST-05494,West,Internet + Mobile,Month-to-month,26,93.26,0.437,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+339,CUST-06089,North Texas,Internet Only,Month-to-month,11,49.19,0.437,month-to-month contract; first year; 4 service issues in 90 days; not on auto-pay
+340,CUST-06155,Southeast,Internet + TV,Month-to-month,1,89.96,0.437,month-to-month contract; first year; 3 service issues in 90 days
+341,CUST-03303,North Texas,Internet + Mobile,Month-to-month,1,87.31,0.436,month-to-month contract; first year; 3 service issues in 90 days
+342,CUST-06329,Northeast,Triple Play,Month-to-month,7,132.62,0.436,month-to-month contract; first year
+343,CUST-02166,Northeast,Internet + TV,Month-to-month,10,88.29,0.436,month-to-month contract; first year; 4 service issues in 90 days
+344,CUST-06338,Midwest,Triple Play,Month-to-month,7,127.94,0.435,month-to-month contract; first year
+345,CUST-02986,West,Internet + Mobile,Month-to-month,23,81.83,0.435,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+346,CUST-02327,West,Internet + Mobile,Month-to-month,9,71.59,0.435,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+347,CUST-06431,North Texas,Internet + TV,Month-to-month,8,95.28,0.435,month-to-month contract; first year; not on auto-pay
+348,CUST-02785,North Texas,Triple Play,Month-to-month,6,127.2,0.434,month-to-month contract; first year
+349,CUST-04241,Southeast,Triple Play,One year,12,134.98,0.434,first year; 4 service issues in 90 days; not on auto-pay
+350,CUST-04926,West,Internet + Mobile,Month-to-month,6,89.44,0.434,month-to-month contract; first year; not on auto-pay
+351,CUST-00747,Midwest,Internet + TV,Month-to-month,1,91.43,0.434,month-to-month contract; first year; 3 service issues in 90 days
+352,CUST-05203,South Texas,Internet + TV,Month-to-month,22,96.82,0.433,month-to-month contract; 5 service issues in 90 days
+353,CUST-03619,West,Internet Only,Month-to-month,1,43.73,0.432,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+354,CUST-07025,Northeast,Internet + TV,Month-to-month,34,89.62,0.432,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+355,CUST-03789,West,Internet + TV,Month-to-month,14,98.05,0.432,month-to-month contract; 4 service issues in 90 days
+356,CUST-05036,Southeast,Internet + Mobile,Month-to-month,1,87.96,0.431,month-to-month contract; first year; 3 service issues in 90 days
+357,CUST-04817,South Texas,Internet + Mobile,Month-to-month,8,83.56,0.431,month-to-month contract; first year; 4 service issues in 90 days
+358,CUST-00064,North Texas,Triple Play,One year,11,138.14,0.431,first year; 4 service issues in 90 days; not on auto-pay
+359,CUST-04745,Midwest,Internet + Mobile,Month-to-month,10,97.28,0.431,month-to-month contract; first year; not on auto-pay
+360,CUST-04182,North Texas,Internet Only,Month-to-month,13,54.92,0.431,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+361,CUST-02966,West,Triple Play,Month-to-month,9,120.79,0.431,month-to-month contract; first year; not on auto-pay
+362,CUST-01555,Northeast,Internet + Mobile,Month-to-month,7,88.4,0.43,month-to-month contract; first year; not on auto-pay
+363,CUST-06690,Midwest,Triple Play,Month-to-month,14,134.27,0.43,month-to-month contract; not on auto-pay
+364,CUST-07453,South Texas,Internet + TV,Month-to-month,7,101.88,0.429,month-to-month contract; first year; 3 service issues in 90 days
+365,CUST-04133,North Texas,Internet + TV,Month-to-month,4,95.86,0.429,month-to-month contract; first year; 3 service issues in 90 days
+366,CUST-04744,West,Internet + Mobile,Month-to-month,8,88.65,0.429,month-to-month contract; first year; not on auto-pay
+367,CUST-04096,Midwest,Internet + TV,Month-to-month,1,111.48,0.429,month-to-month contract; first year
+368,CUST-04520,Midwest,Internet + Mobile,Month-to-month,9,71.86,0.429,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+369,CUST-01977,North Texas,Triple Play,Month-to-month,17,131.57,0.428,month-to-month contract; 3 service issues in 90 days
+370,CUST-04573,Midwest,Internet + TV,Month-to-month,2,114.08,0.428,month-to-month contract; first year
+371,CUST-00217,Midwest,Triple Play,Month-to-month,5,124.12,0.427,month-to-month contract; first year
+372,CUST-06109,Northeast,Triple Play,Month-to-month,26,129.8,0.427,month-to-month contract; 4 service issues in 90 days
+373,CUST-01206,Midwest,Internet + TV,Month-to-month,6,86.96,0.427,month-to-month contract; first year; not on auto-pay
+374,CUST-06685,South Texas,Triple Play,Month-to-month,15,128.04,0.427,month-to-month contract; 3 service issues in 90 days
+375,CUST-07398,Northeast,Triple Play,Month-to-month,14,133.29,0.427,month-to-month contract; not on auto-pay
+376,CUST-05730,Southeast,Internet + Mobile,Month-to-month,2,75.68,0.427,month-to-month contract; first year; not on auto-pay
+377,CUST-06598,West,Internet + TV,Month-to-month,15,85.42,0.426,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+378,CUST-06087,Northeast,Triple Play,Month-to-month,1,121.09,0.426,month-to-month contract; first year; not on auto-pay
+379,CUST-06048,West,Internet Only,Month-to-month,16,61.54,0.426,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+380,CUST-03387,West,Internet + Mobile,Month-to-month,1,86.22,0.426,month-to-month contract; first year; 3 service issues in 90 days
+381,CUST-06364,Northeast,Internet Only,Month-to-month,15,59.08,0.426,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+382,CUST-05341,Southeast,Internet + TV,Month-to-month,11,85.52,0.426,month-to-month contract; first year; 4 service issues in 90 days
+383,CUST-01364,West,Internet + TV,Month-to-month,1,88.34,0.425,month-to-month contract; first year; 3 service issues in 90 days
+384,CUST-05962,South Texas,Internet + TV,Month-to-month,7,84.47,0.425,month-to-month contract; first year; not on auto-pay
+385,CUST-00899,West,Internet Only,Month-to-month,1,45.91,0.425,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+386,CUST-03964,Midwest,Triple Play,Month-to-month,19,135.71,0.424,month-to-month contract; 3 service issues in 90 days
+387,CUST-06005,Midwest,Internet + Mobile,Month-to-month,9,89.69,0.424,month-to-month contract; first year; not on auto-pay
+388,CUST-02908,North Texas,Internet + TV,Month-to-month,1,93.8,0.424,month-to-month contract; first year; not on auto-pay
+389,CUST-06742,West,Triple Play,Month-to-month,37,133.04,0.424,month-to-month contract; 5 service issues in 90 days
+390,CUST-01283,Southeast,Internet Only,Month-to-month,22,51.44,0.424,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+391,CUST-07048,North Texas,Triple Play,Month-to-month,21,125.0,0.423,month-to-month contract; not on auto-pay
+392,CUST-02160,Southeast,Internet + TV,Month-to-month,5,80.72,0.423,month-to-month contract; first year; not on auto-pay
+393,CUST-02676,Northeast,Internet + Mobile,Month-to-month,20,87.85,0.423,month-to-month contract; 5 service issues in 90 days
+394,CUST-05470,Southeast,Internet + TV,Month-to-month,1,93.56,0.423,month-to-month contract; first year; not on auto-pay
+395,CUST-04835,West,Internet + TV,Month-to-month,8,88.77,0.423,month-to-month contract; first year; not on auto-pay
+396,CUST-03250,North Texas,Internet + TV,Month-to-month,1,95.65,0.422,month-to-month contract; first year; not on auto-pay
+397,CUST-04887,Southeast,Internet + TV,Month-to-month,15,73.62,0.422,month-to-month contract; 5 service issues in 90 days
+398,CUST-03158,South Texas,Internet + TV,Month-to-month,30,99.38,0.422,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+399,CUST-02418,Midwest,Internet + TV,Month-to-month,1,95.44,0.422,month-to-month contract; first year; not on auto-pay
+400,CUST-04843,Northeast,Triple Play,Month-to-month,4,143.53,0.421,month-to-month contract; first year
+401,CUST-04982,North Texas,Internet + Mobile,Month-to-month,4,71.36,0.421,month-to-month contract; first year; 4 service issues in 90 days
+402,CUST-06786,North Texas,Internet Only,Month-to-month,1,60.43,0.421,month-to-month contract; first year; 4 service issues in 90 days
+403,CUST-01090,Southeast,Triple Play,Month-to-month,17,139.53,0.42,month-to-month contract; not on auto-pay
+404,CUST-00932,Southeast,Triple Play,Month-to-month,17,131.09,0.42,month-to-month contract; 3 service issues in 90 days
+405,CUST-00164,Southeast,Triple Play,Month-to-month,1,134.97,0.42,month-to-month contract; first year
+406,CUST-00940,Northeast,Triple Play,Month-to-month,11,138.46,0.42,month-to-month contract; first year
+407,CUST-05746,West,Internet + TV,Month-to-month,2,85.01,0.42,month-to-month contract; first year; 3 service issues in 90 days
+408,CUST-05903,South Texas,Internet + Mobile,Month-to-month,8,89.94,0.419,month-to-month contract; first year; not on auto-pay
+409,CUST-05058,Midwest,Internet + TV,Month-to-month,21,99.75,0.419,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+410,CUST-05508,North Texas,Internet + TV,Month-to-month,25,102.73,0.419,month-to-month contract; 5 service issues in 90 days
+411,CUST-01808,North Texas,Internet + Mobile,Month-to-month,5,93.04,0.419,month-to-month contract; first year; 3 service issues in 90 days
+412,CUST-00369,Midwest,Internet + Mobile,Month-to-month,1,94.62,0.419,month-to-month contract; first year; not on auto-pay
+413,CUST-05090,South Texas,Internet + Mobile,Month-to-month,16,83.03,0.418,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+414,CUST-01476,Southeast,Internet Only,Month-to-month,1,43.72,0.418,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+415,CUST-05396,Northeast,Internet + Mobile,Month-to-month,1,94.09,0.418,month-to-month contract; first year; not on auto-pay
+416,CUST-02734,Northeast,Internet + TV,Month-to-month,3,97.55,0.418,month-to-month contract; first year; not on auto-pay
+417,CUST-02889,Southeast,Internet + Mobile,Month-to-month,1,81.42,0.418,month-to-month contract; first year; 3 service issues in 90 days
+418,CUST-01924,Northeast,Internet + TV,Month-to-month,12,98.26,0.418,month-to-month contract; first year; not on auto-pay
+419,CUST-04267,Northeast,Triple Play,Month-to-month,20,136.19,0.417,month-to-month contract; 3 service issues in 90 days
+420,CUST-04462,Northeast,Internet Only,Month-to-month,21,48.34,0.417,month-to-month contract; 5 service issues in 90 days; not on auto-pay
+421,CUST-07338,North Texas,Internet + TV,Month-to-month,12,97.93,0.417,month-to-month contract; first year; not on auto-pay
+422,CUST-04629,Midwest,Internet + TV,Month-to-month,13,103.0,0.417,month-to-month contract; not on auto-pay
+423,CUST-01890,South Texas,Internet Only,Month-to-month,7,59.57,0.416,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+424,CUST-06898,Midwest,Internet + Mobile,Month-to-month,1,91.35,0.416,month-to-month contract; first year; not on auto-pay
+425,CUST-03427,Midwest,Triple Play,Month-to-month,11,118.89,0.415,month-to-month contract; first year; not on auto-pay
+426,CUST-06198,West,Triple Play,Month-to-month,7,125.72,0.415,month-to-month contract; first year
+427,CUST-02028,Northeast,Internet + Mobile,Month-to-month,11,92.42,0.415,month-to-month contract; first year; not on auto-pay
+428,CUST-04781,Northeast,Triple Play,Month-to-month,33,134.14,0.415,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+429,CUST-03454,South Texas,Internet + Mobile,Month-to-month,23,82.17,0.415,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+430,CUST-05498,West,Internet Only,Month-to-month,6,54.45,0.415,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+431,CUST-04478,Midwest,Internet Only,Month-to-month,10,67.24,0.414,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+432,CUST-04555,Northeast,Internet + Mobile,Month-to-month,10,89.16,0.414,month-to-month contract; first year; not on auto-pay
+433,CUST-03329,Midwest,Internet + TV,Month-to-month,16,84.25,0.414,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+434,CUST-05153,Midwest,Internet Only,Month-to-month,1,60.46,0.414,month-to-month contract; first year; 4 service issues in 90 days
+435,CUST-00593,Midwest,Internet + TV,Month-to-month,1,84.66,0.414,month-to-month contract; first year; 3 service issues in 90 days
+436,CUST-04084,West,Triple Play,Month-to-month,1,130.26,0.413,month-to-month contract; first year
+437,CUST-04439,West,Internet + Mobile,Month-to-month,1,92.59,0.413,month-to-month contract; first year; not on auto-pay
+438,CUST-01660,Southeast,Internet + TV,Month-to-month,1,105.77,0.412,month-to-month contract; first year
+439,CUST-05849,West,Triple Play,Month-to-month,17,123.76,0.411,month-to-month contract; 3 service issues in 90 days
+440,CUST-04031,West,Triple Play,Month-to-month,18,130.83,0.411,month-to-month contract; 3 service issues in 90 days
+441,CUST-00840,North Texas,Internet + Mobile,Month-to-month,19,89.29,0.411,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+442,CUST-06254,Northeast,Triple Play,Month-to-month,16,133.35,0.41,month-to-month contract; not on auto-pay
+443,CUST-06644,West,Internet Only,Month-to-month,8,56.05,0.41,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+444,CUST-06306,West,Internet + TV,Month-to-month,5,100.01,0.409,month-to-month contract; first year; not on auto-pay
+445,CUST-01390,South Texas,Internet + Mobile,Month-to-month,6,81.0,0.409,month-to-month contract; first year; not on auto-pay
+446,CUST-02034,West,Internet + TV,Month-to-month,10,79.2,0.409,month-to-month contract; first year; 4 service issues in 90 days
+447,CUST-03940,Northeast,Internet Only,Month-to-month,19,69.04,0.409,month-to-month contract; 4 service issues in 90 days; not on auto-pay
+448,CUST-02747,South Texas,Internet + Mobile,Month-to-month,3,88.5,0.409,month-to-month contract; first year; 3 service issues in 90 days
+449,CUST-03720,Midwest,Internet Only,Month-to-month,4,51.13,0.409,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+450,CUST-07473,North Texas,Triple Play,Month-to-month,3,136.55,0.408,month-to-month contract; first year
+451,CUST-03019,Northeast,Triple Play,Month-to-month,26,133.94,0.408,month-to-month contract; not on auto-pay
+452,CUST-06778,Southeast,Internet + Mobile,Month-to-month,8,86.08,0.408,month-to-month contract; first year; not on auto-pay
+453,CUST-04465,West,Triple Play,Month-to-month,32,128.76,0.408,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+454,CUST-07169,North Texas,Internet Only,Month-to-month,1,54.07,0.408,month-to-month contract; first year; 4 service issues in 90 days
+455,CUST-06813,Northeast,Triple Play,Month-to-month,22,140.92,0.407,month-to-month contract; 3 service issues in 90 days
+456,CUST-05976,Southeast,Triple Play,Month-to-month,1,130.4,0.407,month-to-month contract; first year
+457,CUST-04286,West,Triple Play,Month-to-month,15,116.63,0.407,month-to-month contract; 3 service issues in 90 days
+458,CUST-03361,West,Internet + Mobile,Month-to-month,1,90.05,0.406,month-to-month contract; first year; not on auto-pay
+459,CUST-05252,Southeast,Triple Play,Month-to-month,1,130.05,0.406,month-to-month contract; first year
+460,CUST-06380,Midwest,Triple Play,Month-to-month,40,142.39,0.406,month-to-month contract; 5 service issues in 90 days
+461,CUST-02170,Midwest,Internet + TV,Month-to-month,8,98.73,0.405,month-to-month contract; first year; 3 service issues in 90 days
+462,CUST-01273,West,Internet Only,Month-to-month,4,45.46,0.405,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+463,CUST-06157,West,Triple Play,Month-to-month,8,133.44,0.405,month-to-month contract; first year; not on auto-pay
+464,CUST-05389,Northeast,Internet + TV,Month-to-month,17,81.54,0.405,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+465,CUST-06448,Southeast,Internet Only,Month-to-month,10,63.87,0.404,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+466,CUST-04189,Midwest,Internet + Mobile,Month-to-month,3,92.7,0.404,month-to-month contract; first year; not on auto-pay
+467,CUST-02780,Midwest,Triple Play,Month-to-month,25,130.02,0.404,month-to-month contract; not on auto-pay
+468,CUST-06876,North Texas,Internet + Mobile,Month-to-month,9,74.47,0.403,month-to-month contract; first year; 4 service issues in 90 days
+469,CUST-07024,North Texas,Internet + Mobile,Month-to-month,17,96.89,0.403,month-to-month contract; 4 service issues in 90 days
+470,CUST-05438,Northeast,Internet + TV,Month-to-month,11,88.36,0.403,month-to-month contract; first year; not on auto-pay
+471,CUST-07485,Southeast,Internet + TV,Month-to-month,1,80.62,0.402,month-to-month contract; first year; 3 service issues in 90 days
+472,CUST-05299,West,Internet + TV,Month-to-month,13,95.42,0.401,month-to-month contract; not on auto-pay
+473,CUST-00918,West,Triple Play,Month-to-month,17,122.46,0.401,month-to-month contract; 3 service issues in 90 days
+474,CUST-04481,Southeast,Internet + TV,Month-to-month,25,102.61,0.401,month-to-month contract; 3 service issues in 90 days; not on auto-pay
+475,CUST-01035,Northeast,Internet + Mobile,Month-to-month,1,99.7,0.401,month-to-month contract; first year
+476,CUST-00730,North Texas,Internet + Mobile,Month-to-month,7,78.76,0.401,month-to-month contract; first year; not on auto-pay
+477,CUST-00936,West,Triple Play,Month-to-month,5,137.16,0.401,month-to-month contract; first year
+478,CUST-07410,South Texas,Internet + TV,Month-to-month,10,86.89,0.4,month-to-month contract; first year; not on auto-pay
+479,CUST-03425,South Texas,Internet + Mobile,Month-to-month,1,87.99,0.4,month-to-month contract; first year; not on auto-pay
+480,CUST-05210,Northeast,Triple Play,Month-to-month,10,129.18,0.4,month-to-month contract; first year
+481,CUST-05646,Northeast,Triple Play,Month-to-month,5,139.12,0.4,month-to-month contract; first year
+482,CUST-07349,West,Internet + Mobile,Month-to-month,1,85.77,0.4,month-to-month contract; first year; not on auto-pay
+483,CUST-05703,Midwest,Internet + Mobile,Month-to-month,4,70.11,0.4,month-to-month contract; first year; not on auto-pay
+484,CUST-06236,South Texas,Internet + Mobile,Month-to-month,8,107.74,0.4,month-to-month contract; first year; not on auto-pay
+485,CUST-05880,Southeast,Internet + TV,Month-to-month,4,96.35,0.4,month-to-month contract; first year; not on auto-pay
+486,CUST-03169,South Texas,Internet + TV,Month-to-month,3,91.11,0.399,month-to-month contract; first year; not on auto-pay
+487,CUST-01463,South Texas,Internet + Mobile,Month-to-month,1,101.28,0.399,month-to-month contract; first year
+488,CUST-02041,West,Internet Only,Month-to-month,8,56.5,0.398,month-to-month contract; first year; 3 service issues in 90 days; not on auto-pay
+489,CUST-00155,South Texas,Internet + Mobile,Month-to-month,25,93.25,0.398,month-to-month contract; 5 service issues in 90 days
+490,CUST-03337,Northeast,Internet + Mobile,Month-to-month,26,96.07,0.398,month-to-month contract; 5 service issues in 90 days
+491,CUST-01526,South Texas,Internet + TV,Month-to-month,1,100.89,0.398,month-to-month contract; first year
+492,CUST-06326,Midwest,Internet + Mobile,Month-to-month,4,87.27,0.397,month-to-month contract; first year; 3 service issues in 90 days
+493,CUST-05696,North Texas,Triple Play,Month-to-month,17,131.51,0.397,month-to-month contract; not on auto-pay
+494,CUST-01942,North Texas,Triple Play,Month-to-month,13,133.98,0.397,month-to-month contract
+495,CUST-02357,South Texas,Internet + TV,Month-to-month,1,84.63,0.397,month-to-month contract; first year; not on auto-pay
+496,CUST-06721,West,Internet + Mobile,Month-to-month,1,84.64,0.397,month-to-month contract; first year; not on auto-pay
+497,CUST-01793,Midwest,Triple Play,Month-to-month,1,126.96,0.397,month-to-month contract; first year
+498,CUST-05316,Midwest,Internet + Mobile,Month-to-month,22,84.13,0.396,month-to-month contract; 5 service issues in 90 days
+499,CUST-02985,West,Triple Play,Month-to-month,11,114.49,0.396,month-to-month contract; first year; not on auto-pay
+500,CUST-00690,Midwest,Triple Play,Month-to-month,17,118.62,0.396,month-to-month contract; 3 service issues in 90 days

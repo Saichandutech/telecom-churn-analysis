@@ -1,0 +1,28 @@
+{
+  "customers": 7500,
+  "churn_rate_pct": 20.28,
+  "monthly_revenue_lost": 140554.24,
+  "mtm_churn_pct": 30.5,
+  "two_year_churn_pct": 3.8,
+  "first_6mo_churn_pct": 38.2,
+  "over_4yr_churn_pct": 2.5,
+  "zero_issue_churn_pct": 12.7,
+  "five_plus_issue_churn_pct": 37.1,
+  "top_region": "South Texas",
+  "top_region_churn_pct": 22.8,
+  "high_risk_customers": 243,
+  "high_risk_churn_pct": 56.8,
+  "high_risk_monthly_revenue": 20919.33,
+  "model": {
+    "test_auc": 0.801,
+    "coefficients": {
+      "contract_type_Two year": -0.6,
+      "tenure_months": -0.599,
+      "contract_type_One year": -0.447,
+      "autopay": -0.242,
+      "outages_90d": 0.287,
+      "support_tickets_90d": 0.326,
+      "monthly_charges": 0.342
+    }
+  }
+}
